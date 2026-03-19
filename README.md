@@ -32,7 +32,7 @@ about:
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,git,linux&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,linux,git,go,c++&theme=dark" alt="Tech Stack" />
 </p>
 
 <br/>
