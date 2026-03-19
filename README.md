@@ -22,10 +22,10 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                          TOOLCHAIN                              ║
+║                          TOOLCHAIN                               ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║   Languages        C · C++ · Go · Python · Java · Lua           ║
+║   Languages        C · C++ · Go · Python · Java · Lua            ║
 ║   Scripting        Bash · Assembly                               ║
 ║   Systems          Linux · Git                                   ║
 ║                                                                  ║
@@ -34,7 +34,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                          CONNECT                                ║
+║                          CONNECT                                 ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║   LinkedIn        linkedin.com/in/nicholasmamais                 ║
