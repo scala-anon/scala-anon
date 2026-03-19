@@ -5,47 +5,32 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  > whoami                                                        │
-│  Nicholas Mamais                                                 │
-│                                                                  │
-│  > cat /etc/role                                                 │
-│  Student & Intern                                                │
-│                                                                  │
-│  > cat /var/log/status                                           │
-│  Building things that matter.                                    │
-│  Learning — always.                                              │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                          TOOLCHAIN                               ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   Languages        C · C++ · Go · Python · Java · Lua            ║
-║   Scripting        Bash · Assembly                               ║
-║   Systems          Linux · Git                                   ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                          CONNECT                                 ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   LinkedIn        linkedin.com/in/nicholasmamais                 ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-[`> open linkedin`](https://www.linkedin.com/in/nicholasmamais/)
-
-```
-> exit 0
+┌─ ● ○ ○ ──────────── nicholas@github: ~/about ───────────────────┐
+│                                                                 │
+│  nicholas@github:~$ whoami                                      │
+│  Nicholas Mamais                                                │
+│                                                                 │
+│  nicholas@github:~$ cat /etc/role                               │
+│  Student & Intern                                               │
+│                                                                 │
+│  nicholas@github:~$ cat /var/log/status                         │
+│  Building things that matter.                                   │
+│  Learning — always.                                             │
+│                                                                 │
+│  nicholas@github:~$ ls ~/toolchain/                             │
+│  C  C++  Go  Python  Java  Lua  Bash  Assembly                  │
+│                                                                 │
+│  nicholas@github:~$ ls ~/toolchain/systems/                     │
+│  Linux  Git                                                     │
+│                                                                 │
+│  nicholas@github:~$ cat ~/.config/connect.yml                   │
+│  linkedin: nicholasmamais                                       │
+│                                                                 │
+│  nicholas@github:~$ █                                           │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
+
+[`nicholas@github:~$ open linkedin`](https://www.linkedin.com/in/nicholasmamais/)
