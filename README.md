@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Portfoilio.png" /img>
+  <img src="assets/Portfolio.png" /img>
 </p>
 
 <!--
